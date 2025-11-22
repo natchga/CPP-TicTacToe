@@ -131,6 +131,10 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Game.h" />
+    <ClInclude Include="TicTacToe.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="TicTacToe.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
